@@ -2,9 +2,9 @@
 
 <h3 align="center">👌Striving for perfection in every project <br/> 🚀one line of code at a time </h3>
 
-<h4 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="https://linkedin.com/in/vishakh abhayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishakh abhayan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nayan-rabiul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishakh abhayan" height="30" width="40" /></a>
 <a href="https://twitter.com/_nay_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishakh_abhayan" height="30" width="40" /></a>
 <a href="https://discord.gg/nayan#5770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vishakh Abhayan#4955" height="30" width="40" /></a>
 </p>
