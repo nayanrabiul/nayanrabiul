@@ -63,5 +63,5 @@
 
 <a style="text-aling:center" href="https://github.com/nayanrabiul" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanrabiul&langs_count=10&title_color=e2fdff&text_color=ffffff&icon_color=00FFFF&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=CSS,HTML" alt="Top Languages" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nayanrabiul&&bg_color=5465ff&color=e2fdff&line=14FE64&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nayanrabiul&&bg_color=5465ff&color=e2fdff&line=14FE64&point=ffffff&area=true&hide_border=true)](https://github.com/nayanrabiul/github-readme-activity-graph)
 
