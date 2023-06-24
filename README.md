@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **nayan.rabiul@gmial.com**
 
-- 📄 Know about my experiences [https://example.com](https://example.com)
-
 - ⚡ Fun fact **am 18**
 
 <br/>
